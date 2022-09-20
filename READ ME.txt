@@ -1,0 +1,13 @@
+Version 1.0
+Author : Erigert Ndokaj
+
+This bot will check the price of currencies and send them via Telegram Message.
+
+
+What is needed to configure this bot is to put your token into config File which is located in Data folder.
+
+
+If you want to add more actions you can add into the flowchart at Web_Telegram_Actions
+
+
+Thank You
